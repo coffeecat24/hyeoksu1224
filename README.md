@@ -1,5 +1,18 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeoksu1224&count_bg=%23AAC4FF&title_bg=%23B1B2FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## Stacks 📖
+<div align="center">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+</div>
+<br>
 
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeoksu1224)](https://solved.ac/hyeoksu1224)
+<div align=center>
+<br>
  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeoksu1224)](https://solved.ac/hyeoksu1224)
+
+<br>
+</div>
+
+ ## Contact📫
 <a href=https://www.instagram.com/gurtn_24/ target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:hyeoksu2891@kookmin.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hyeoksu2891@kookmin.ac.kr"/></a>
